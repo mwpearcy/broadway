@@ -32,5 +32,10 @@ h5 {
   text-align: left;
 }
 .header {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
+}
+a:active,
+a:visited,
+a:link {
+  color: white;
 }
